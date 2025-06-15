@@ -70,11 +70,12 @@ Install dependencies with:
 
 ```bash
 pip install -r requirements.txt
+```
 
 ▶️ Running the Code
 
 ```bash
 python benchmark.py
-
+```
 
 
