@@ -1,6 +1,15 @@
 # ConcisePPG
 Concise PPG Features for lightweight Identity Verification
 
+If you use this work in your research, please cite it as follows:
+```bash
+Shahmirzadi, D., Wang, W.F. Concise PPG features for lightweight identity verification. Multimed Tools Appl 85, 147 (2026). https://doi.org/10.1007/s11042-026-21295-6
+```
+Here is the link to [Springer Nature](https://link.springer.com/article/10.1007/s11042-026-21295-6)
+
+I’m pleased to share a full-text, view-only version of my latest paper via Springer Nature’s SharedIt initiative: [[Link](https://rdcu.be/e2FpX)]
+
+
 # 📈 PPG-Based Lightweight Identity Verification Using a Single Cardiac Cycle
 
 This repository contains the full implementation of our paper:  
